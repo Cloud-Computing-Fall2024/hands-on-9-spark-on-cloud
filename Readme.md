@@ -1,5 +1,3 @@
----
-
 ## Hands-On #9: Working with AWS Services - EC2/Lightsail, S3, PySpark, and Docker
 
 ### Overview
@@ -7,8 +5,6 @@ In this hands-on session, you will complete two main tasks using AWS services:
 
 1. **Task 1**: Create an EC2 or Lightsail VM, clone a GitHub repository containing a PySpark job, and run the PySpark job using input from an S3 bucket and outputting results back to the S3 bucket.
 2. **Task 2**: Create a simple web server using Node.js and Docker, push the Docker image to a Docker registry, and run the container on the VM created in Task 1.
-
----
 
 ### Task 1: PySpark Job on AWS VM
 
